@@ -1,7 +1,5 @@
 body {
-   background: linear-gradient(to bottom right, blue,
-   aqua
-   );
+   background: linear-gradient(to bottom right, blue,aqua);
    height: 100vh;
    display: flex;
    justify-content: center;
